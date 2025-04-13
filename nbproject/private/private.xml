@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/bill.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/vnpay_querydr.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/vnpay_refund.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/Cart.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/vnpay/common/ajaxServlet.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/ConfirmBuy.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/vnpay_return.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/entity/History.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/vnpay_ipn.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/Home.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/Left.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/HistoryServlet.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/Menu.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/AddtoCart.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/Payment.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/CartControl.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/BuyControl.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/web/vnpay_index.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/dao/HistoryDAO.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/context/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/Cart_IncDecQuantity.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/PaymentControl.java</file>
+            <file>file:/C:/Users/Admin/Downloads/E-Commerce-Web_Java-Servlet_ShoesShop-main/E-Commerce-Web_Java-Servlet_ShoesShop-main/ShoeWeb-BTL/src/java/com/control/CategoryControl.java</file>
+        </group>
+    </open-files>
+</project-private>
