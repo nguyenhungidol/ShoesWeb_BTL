@@ -1,10 +1,3 @@
-<%-- 
-    Document   : SignUp
-    Created on : May 7, 2022, 11:57:54 PM
-    Author     : hoangduongngg
---%>
-
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Payment
-    Created on : May 11, 2022, 10:56:59 PM
-    Author     : hoangduongngg
---%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

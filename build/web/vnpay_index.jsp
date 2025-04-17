@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Sep 29, 2015, 7:23:18 PM
-    Author     : xonv
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">

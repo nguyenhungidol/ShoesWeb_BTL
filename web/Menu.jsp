@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Menu
-    Created on : May 9, 2022, 4:15:09 PM
-    Author     : hoangduongngg
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

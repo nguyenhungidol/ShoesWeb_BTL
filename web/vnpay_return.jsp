@@ -1,13 +1,6 @@
 <%@page import="com.vnpay.common.Config"%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%-- 
-    Document   : vnpay_return
-    Created on : Sep 29, 2015, 7:23:56 PM
-    Author     : xonv
-    Description: Su dung de thong bao ket qua thanh toan toi khach hang. 
-                 Khong thuc hien cap nhat vao db tai file nay
---%>
 
 <%@page import="java.util.Iterator"%>
 <%@page import="java.util.Collections"%>

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Footer
-    Created on : May 9, 2022, 4:26:14 PM
-    Author     : hoangduongngg
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
         <!-- Footer -->
         <footer class="text-light">

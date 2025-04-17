@@ -1,6 +1,5 @@
 <%@page import="com.vnpay.common.Config"%>
 <%@page contentType="application/json; charset=UTF-8"%>
-
 <%@page import="java.util.Iterator"%>
 <%@page import="java.util.Collections"%>
 <%@page import="java.util.List"%>
@@ -13,22 +12,6 @@
 <%
     try
     {
-		            
-	/*  IPN URL: Record payment results from VNPAY
-	Implementation steps:
-	Check checksum
-	Find transactions (vnp_TxnRef) in the database (checkOrderId)
-	Check the payment status of transactions before updating (checkOrderStatus)
-	Check the amount (vnp_Amount) of transactions before updating (checkAmount)
-	Update results to Database
-	Return recorded results to VNPAY
-	*/
-			
-        // ex:  	PaymnentStatus = 0; pending 
-        //              PaymnentStatus = 1; success 
-        //              PaymnentStatus = 2; Faile 
-        
-        //Begin process return from VNPAY	
         Map fields = new HashMap();
         for (Enumeration params = request.getParameterNames(); params.hasMoreElements();) {
             String fieldName = (String) params.nextElement();
