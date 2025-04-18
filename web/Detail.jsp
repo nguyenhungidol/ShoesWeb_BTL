@@ -69,8 +69,6 @@
 
                         </ul>
                     </div>
-
-
                 </div>
                 <div class="col-sm-9">
                     <!--                    <div class="container">
@@ -109,10 +107,6 @@
                                 <a href="addtoCart?ProductID=${p.id}" class="btn btn-sm btn-outline-primary text-uppercase"> <i class="fas fa-shopping-cart"></i> Add to cart </a>
                             </article> <!-- card-body.// -->
                         </aside> <!-- col.// -->
-                        <!--</div>  row.//--> 
-                        <!--</div>  card.//--> 
-
-
                     </div>
                 </div>
             </div>

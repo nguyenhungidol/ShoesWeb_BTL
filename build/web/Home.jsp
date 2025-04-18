@@ -21,17 +21,11 @@
         </style>
     </head>
     <body>
-
-
         <jsp:include page = "Menu.jsp"></jsp:include>
-
-
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3">
-
                     <jsp:include page="Left.jsp"></jsp:include>    
-
                         <!--Product List-->
                         <div class="col-sm-9">
                             <div class="row">
@@ -71,10 +65,8 @@
 
                 </div>
             </div>
-
             <jsp:include page="Footer.jsp"></jsp:include>
             <div class="zalo-chat-widget" data-oaid="4477228412300966908" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="" data-height=""></div>
-
             <script src="https://sp.zalo.me/plugins/sdk.js"></script>
     </body>
 </html>
