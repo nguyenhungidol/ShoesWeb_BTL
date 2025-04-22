@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package dao;
 
 import context.DBContext;
@@ -9,10 +5,6 @@ import entity.Category;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author hoangduongngg
- */
 public class CategoryDAO extends DAO{
 
     public CategoryDAO() {

@@ -65,31 +65,6 @@ public class AccountDAO extends DAO {
         return null;
     }
 
-//    public Account getAccountById(String id) {
-//        String query = "SELECT * FROM account where uID=?";
-//        try {
-//            conn = new DBContext().getConnection();//mo ket noi voi sql
-//            ps = conn.prepareStatement(query);
-//            ps.setString(1, id);
-//            rs = ps.executeQuery();
-//            while (rs.next()) {
-//                return new Account(
-//                        rs.getInt(1),
-//                        rs.getString(2),
-//                        rs.getString(3),
-//                        rs.getInt(4),
-//                        rs.getInt(5),
-//                        rs.getString(6),
-//                        rs.getString(7),
-//                        rs.getString(8)
-//                );
-//            }
-//
-//        } catch (Exception e) {
-//        }
-//        return null;
-//    }
-    // Sign Up: Them Account moi vao Database
     public void signUp(Account account) {
         String query = "insert into account (user, pass, isSell, isAdmin, name, address, phone)\n"
                 + "values (?, ?, 0, 0, ?, ?, ?)"; //0,0 : not Seller, not Admin => Normal User
