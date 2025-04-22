@@ -16,7 +16,7 @@
                         <hr class="bg-white mb-2 mt-0 d-inline-block mx-auto w-25">
                         <ul class="list-unstyled">
                             <li><a href="https://www.facebook.com/hungnguyen298">FaceBook</a></li>
-                            <li><a type="https://www.instagram.com/hung__298/" href="">Instagram</a></li>
+                            <li><a href="https://www.instagram.com/hung__298">Instagram</a></li>
                             <li><a href="https://github.com/nguyenhungidol">Github</a></li>
                         </ul>
                     </div>
