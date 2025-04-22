@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
- */
 package com.control;
 
 import com.mysql.cj.Session;
@@ -10,7 +6,6 @@ import entity.Cart;
 import entity.Item;
 import entity.Product;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -22,10 +17,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author hoangduongngg
- */
 @WebServlet(name = "AddtoCart", urlPatterns = {"/addtoCart"})
 public class AddtoCart extends HttpServlet {
 
