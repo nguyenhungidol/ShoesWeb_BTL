@@ -49,7 +49,7 @@
                                                         <p>${o.sell_ID}</p>
                                                     </c:if> 
                                                     <c:if test="${o.sell_ID<=0}">
-                                                        <p style="color: red;">Het hang</p>
+                                                        <p style="color: red;">Hết hàng</p>
                                                     </c:if>
                                                 </div>
                                                 <div class="col">
